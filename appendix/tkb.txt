@@ -1,0 +1,309 @@
+thoi_khoa_bieu = {
+    'mssv': '16520887',
+    'semester': 'hoc_ky_1',
+    'year': '2019 - 2020',
+    'contents': [
+        {
+            'course_name': 'Phát triển ứng dụng trên di động',
+            'course_code': 'CS4153.K11.CTTT.1 - EN(HT1)',
+            'lecturer': 'Lê Minh Khánh Hội',
+            'room': 'P B3.06',
+            'schedules': {
+                'day_of_week': 'Thứ Hai',
+                'day_of_week_code': 0,
+                'periods': (1, 2, 3)
+            },
+            'type': 'thuc_hanh',
+            'status': 1
+        },
+        {
+            'course_name': 'Dữ liệu lớn',
+            'course_code': 'MSIS405.K11.CTTT - EN',
+            'lecturer': 'Nguyễn Thanh Bình',
+            'room': 'P A325',
+            'schedules': {
+                'day_of_week': 'Thứ Ba',
+                'day_of_week_code': 1,
+                'periods': (1, 2, 3)
+            },
+            'type': 'ly_thuyet',
+            'status': 1
+        },
+        {
+            'course_name': 'Các ứng dụng thông minh và hỗ trợ ra quyết định',
+            'course_code': 'MSIS4263.K11.CTTT - EN',
+            'lecturer': 'Đỗ Phúc',
+            'room': 'P E04.2',
+            'schedules': {
+                'day_of_week': 'Thứ Tư',
+                'day_of_week_code': 2,
+                'periods': (6, 7, 8)
+            }
+            ,
+            'type': 'thuc_hanh',
+            'status': 1
+        },
+        {
+            'course_name': 'Khai phá dữ liệu và ứng dụng',
+            'course_code': 'MKTG5883.K11.CTTT - EN',
+            'lecturer': 'Nguyễn Quốc Việt Hùng',
+            'room': 'P E02.4',
+            'schedules': {
+                'day_of_week': 'Thứ Năm',
+                'day_of_week_code': 3,
+                'periods': (1, 2, 3, 4, 6, 7, 8, 9)
+            },
+            'type': 'thuc_hanh',
+            'status': 1
+        }
+    ],
+    'status': 1
+}
+------------------------------
+thoi_khoa_bieu = {
+    'mssv': '16520734',
+    'semester': 'hoc_ky_2',
+    'year': '2019 - 2020',
+    'contents': [
+        {
+            'course_name': 'Tái cấu trúc qui trình doanh nghiệp',
+            'course_code': 'IEM4733.K21.CTTT - EN',
+            'lecturer': 'Cao Thị Nhạn',
+            'room': 'P B2.18',
+            'schedules': {
+                'day_of_week': 'Thứ Hai',
+                'day_of_week_code': 0,
+                'periods': (6, 7, 8, 9)
+            },
+            'type': 'thuc_hanh',
+            'status': 1
+        },
+        {
+            'course_name': 'Công nghệ thông tin trong thương mại điện tử',
+            'course_code': 'MSIS4133.K21.CTTT - EN',
+            'lecturer': 'Nguyễn Đình Thuân',
+            'room': 'P C106',
+            'schedules': {
+                'day_of_week': 'Thứ Tư',
+                'day_of_week_code': 2,
+                'periods': (6, 7, 8, 9)
+            },
+            'type': 'ly_thuyet',
+            'status': 1
+        },
+        {
+            'course_name': 'Tái cấu trúc qui trình doanh nghiệp',
+            'course_code': 'IEM4733.K21.CTTT.1 - EN(TG)',
+            'lecturer': 'Trình Trọng Tín',
+            'room': 'P E04.2',
+            'schedules': {
+                'day_of_week': 'Thứ Ba',
+                'day_of_week_code': 1,
+                'periods': (6, 7, 8)
+            }
+            ,
+            'type': 'thuc_hanh',
+            'status': 1
+        },
+        {
+            'course_name': 'Công nghệ thông tin trong thương mại điện tử',
+            'course_code': 'MSIS4133.K21.CTTT.1 - EN(TG)',
+            'lecturer': 'Đỗ Duy Thanh',
+            'room': 'P E02.4',
+            'schedules': {
+                'day_of_week': 'Thứ Sáu',
+                'day_of_week_code': 4,
+                'periods': (5, 6, 7)
+            },
+            'type': 'thuc_hanh',
+            'status': 1
+        }
+    ],
+    'status': 1
+}
+------
+thoi_khoa_bieu = {
+'mssv': '16521218',
+    'semester': 'hoc_ky_1',
+    'year': '2019 - 2020',
+    'contents': [
+        {
+            'course_name': 'Công nghệ Web và ứng dụng',
+            'course_code': 'SE347.K11.PMCL - VN',
+            'lecturer': 'Trần Anh Dũng',
+            'room': 'P B2.20',
+            'schedules': {
+                'day_of_week': 'Thứ Hai',
+                'day_of_week_code': 0,
+                'periods': (1, 2, 3)
+            },
+            'type': 'ly_thuyet',
+            'status': 1
+        },
+        {
+            'course_name': 'Giao tiếp người máy',
+            'course_code': 'SE215.K12.PMCL - VN',
+            'lecturer': 'Nguyễn Công Hoan',
+            'room': 'P B2.20',
+            'schedules': {
+                'day_of_week': 'Thứ Tư',
+                'day_of_week_code': 2,
+                'periods': (1, 2, 3)
+            },
+            'type': 'ly_thuyet',
+            'status': 1
+        },
+        {
+            'course_name': 'Phương pháp Phát triển phần mềm hướng đối tượng',
+            'course_code': 'SE100.K16.PMCL - VN',
+            'lecturer': 'Huỳnh Nguyễn Khắc Huy',
+            'room': 'P A215',
+            'schedules': {
+                'day_of_week': 'Thứ Bảy',
+                'day_of_week_code': 5,
+                'periods': (1, 2, 3)
+            }
+            ,
+            'type': 'ly_thuyet',
+            'status': 1
+        },
+        {
+            'course_name': 'Kiểm chứng phần mềm',
+            'course_code': 'SE108.K13.PMCL - VN',
+            'lecturer': 'Nguyễn Thị Thanh Trúc',
+            'room': 'P A215 ',
+            'schedules': {
+                'day_of_week': 'Thứ Bảy',
+                'day_of_week_code': 5,
+                'periods': (4, 5)
+            },
+            'type': 'ly_thuyet',
+            'status': 1
+        }
+    ],
+    'status': 1
+}
+-----------
+thoi_khoa_bieu = {
+'mssv': '16520123',
+    'semester': 'hoc_ky_2',
+    'year': '2018 - 2019',
+    'contents': [
+        {
+            'course_name': 'Phân tích thiết kế hệ thống thông tin',
+            'course_code': 'IS201.J21.PMCL.1 - VN(HT1)',
+            'lecturer': 'Dương Phi Long',
+            'room': 'P C110 ',
+            'schedules': {
+                'day_of_week': 'Thứ Hai',
+                'day_of_week_code': 0,
+                'periods': (1, 2, 3, 4, 5)
+            },
+            'type': 'thuc_hanh',
+            'status': 1
+        },
+        {
+            'course_name': 'Phân tích thiết kế hệ thống thông tin',
+            'course_code': 'IS201.J21.PMCL - VN',
+            'lecturer': 'Nguyễn Đình Loan Phương',
+            'room': 'P E04.4',
+            'schedules': {
+                'day_of_week': 'Thứ Hai',
+                'day_of_week_code': 0,
+                'periods': (6, 7, 8)
+            },
+            'type': 'ly_thuyet',
+            'status': 1
+        },
+        {
+            'course_name': 'Công nghệ phần mềm chuyên sâu',
+            'course_code': 'SE214.J23.PMCL - VN',
+            'lecturer': 'Phan Trung Hiếu',
+            'room': 'P C101',
+            'schedules': {
+                'day_of_week': 'Thứ Ba',
+                'day_of_week_code': 1,
+                'periods': (6, 7, 8)
+            }
+            ,
+            'type': 'ly_thuyet',
+            'status': 1
+        },
+        {
+            'course_name': 'Đặc tả hình thức',
+            'course_code': 'SE106.J22.PMCL - VN',
+            'lecturer': 'Vũ Thanh Nguyên',
+            'room': 'P C101 ',
+            'schedules': {
+                'day_of_week': 'Thứ Tư',
+                'day_of_week_code': 2,
+                'periods': (1, 2, 3, 4)
+            },
+            'type': 'ly_thuyet',
+            'status': 1
+        }
+    ],
+    'status': 1
+}
+-------------
+thoi_khoa_bieu = {
+    'mssv': '16520887',
+    'semester': 'hoc_ky_1',
+    'year': '2019 - 2020',
+    'contents': [
+        {
+            'course_name': 'Hệ điều hành',
+            'course_code': 'IT007.I21.PMCL - VN',
+            'lecturer': 'Lê Hoài Nghĩa',
+            'room': 'P E04.3',
+            'schedules': {
+                'day_of_week': 'Thứ Hai',
+                'day_of_week_code': 0,
+                'periods': (1, 2, 3)
+            },
+            'type': 'ly_thuyet',
+            'status': 1
+        },
+        {
+            'course_name': 'Hệ điều hành',
+            'course_code': 'IT007.I21.PMCL.1 - VN(HT1)',
+            'lecturer': 'Lê Hoài Nghĩa',
+            'room': 'P C202 (PM)',
+            'schedules': {
+                'day_of_week': 'Thứ Hai',
+                'day_of_week_code': 0,
+                'periods': (6, 7, 8, 9, 10)
+            },
+            'type': 'thuc_hanh',
+            'status': 1
+        },
+        {
+            'course_name': 'Lập trình trực quan',
+            'course_code': 'IT008.I22.PMCL.2 - VN(HT1)',
+            'lecturer': 'Huỳnh Hồ Thị Mộng Trinh',
+            'room': 'P C302 (PM)',
+            'schedules': {
+                'day_of_week': 'Thứ Tư',
+                'day_of_week_code': 2,
+                'periods': (1, 2, 3, 4, 5)
+            }
+            ,
+            'type': 'thuc_hanh',
+            'status': 1
+        },
+        {
+            'course_name': 'Lập trình trực quan',
+            'course_code': 'IT008.I22.PMCL - VN',
+            'lecturer': 'Phạm Thi Vương',
+            'room': 'P C106 (CLC)',
+            'schedules': {
+                'day_of_week': 'Thứ Tư',
+                'day_of_week_code': 2,
+                'periods': (6, 7, 8)
+            },
+            'type': 'ly_thuyet',
+            'status': 1
+        }
+    ],
+    'status': 1
+}

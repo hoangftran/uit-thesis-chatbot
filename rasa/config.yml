@@ -1,0 +1,24 @@
+language: vi
+pipeline:
+  - name: VietnameseTokenizer
+  - name: RegexFeaturizer
+  - name: LexicalSyntacticFeaturizer
+  # - name: LanguageModelFeaturizer
+  #   model_name: roberta
+  - name: CountVectorsFeaturizer
+  - name: CountVectorsFeaturizer
+    analyzer: "char_wb"
+    min_ngram: 1
+    max_ngram: 4
+  - name: DIETClassifier
+    epochs: 100
+    hidden_layers_sizes:
+      text: [512, 256]  
+  - name: DucklingEntityExtractor
+    url: http://localhost:8000
+    dimensions:
+      - time
+    locale: vi_VI
+    timezone: Asia/Ho_Chi_Minh
+  - name: RegexEntityExtractor
+  - name: EntitySynonymMapper

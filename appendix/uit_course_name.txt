@@ -1,0 +1,1550 @@
+- Hệ thống thông tin kế toán
+- Hoạch định nguồn lực doanh nghiệp
+- Tiếng Anh tăng cường 1
+- Tiếng Anh tăng cường 2
+- Tiếng Anh tăng cường 3
+- Tiếng Anh tăng cường 4
+- Nhập môn máy tính lượng tử
+- Kiến trúc máy tính
+- Giới thiệu ngành Kỹ Thuật Máy tính
+- Lý thuyết mạch điện
+- Hệ thống số
+- Vi xử lý-vi điều khiển
+- Các thiết bị và mạch điện tử
+- Xử lý tín hiệu số
+- Thiết kế vi mạch với HDL
+- Hệ thống nhúng
+- Hệ điều hành nâng cao
+- Lập trình nhúng căn bản
+- Lập trình hệ thống với Java
+- Kiến trúc máy tính nâng cao
+- Đồ án môn học thiết kế mạch
+- Điều khiển tự động
+- Lập trình trên thiết bị di động
+- Thiết kế mạng
+- Đồ án môn học ngành KTMT
+- Thực hành điện- điện tử
+- Thiết kế luận lý số
+- Thực hành Kiến trúc máy tính
+- Lý thuyết mạch điện
+- Các thiết bị và mạch điện tử
+- Đồ án 1
+- An toàn mạng máy tính
+- Điều khiển tự động nâng cao
+- Thiết kế và lập trình Web
+- Xử lý tín hiệu số
+- Đồ án 2
+- Lập trình nhúng căn bản
+- Điều khiển tự động
+- ThiẾT kế hệ thống số với HDL
+- Tương tác người - máy
+- Thiết kế vi mạch với HDL
+- Thiết kế vi mạch số
+- ThiẾT kế hệ thống nhúng
+- ThiẾT kế hệ thống nhúng không dây
+- Hệ thống chứng thực số
+- Thiết kế vi mạch
+- Robot công nghiệp
+- Robot công nghiệp
+- Thị giác máy tính
+- Hệ thống thời gian thực
+- Xử lý song song và hệ thống phân tán
+- Trình biên dịch
+- Lập trình hệ thống với Java
+- Logic mờ và ứng dụng
+- Điều khiển tự động nâng cao
+- Trình biên dịch
+- Logic mờ và ứng dụng
+- Kỹ thuật chế tạo vi mạch
+- Thiết kế vi mạch hỗn hợp
+- Kĩ thuật thiết kế mạch in
+- Thiết kế vi mạch tương tự
+- Thiết kế dựa trên vi xử lý
+- Tự động hóa thiết kế vi mạch
+- Tối ưu hóa dựa trên FPGA
+- Kỹ thuật chế tạo vi mạch
+- Thiết kế vi mạch hỗn hợp
+- Thiết kế vi mạch tương tự
+- Thiết kế dựa trên vi xử lý
+- Tự động hóa thiết kế vi mạch
+- Tối ưu hóa dựa trên FPGA
+- Hệ thống thời gian thực
+- Lập trình nhúng trên các thiết bị di động
+- Kỹ thuật hệ thống máy tính
+- Các hệ điều hành nhúng
+- Thiết kế số
+- Kỹ thuật chế tạo vi mạch
+- Tương tác người máy
+- Tương tác người – Máy
+- Đồ án chuyên ngành Hệ thống nhúng và Robot
+- Đồ án chuyên ngành Thiết kế vi mạch và phần cứng
+- Kỹ thuật thiết kế kiểm tra
+- Kỹ thuật hệ thống máy tính
+- Chuyên đề hệ thống nhúng và robot
+- Chuyên đề thiết kế vi mạch và phần cứng
+- Lập trình hệ thống
+- Thiết kế vi mạch hướng ASIC
+- Thiết kế hệ thống SoC
+- Chuyên đề thiết kế hệ vi mạch 1
+- Chuyên đề thiết kế hệ vi mạch 2
+- Xử lý tín hiệu số và ứng dụng
+- Chuyên đề thiết kế hệ thống nhúng 1
+- Chuyên đề thiết kế hệ thống nhúng 2
+- Lập trình song song và hệ phân tán
+- Thực tập doanh nghiệp
+- Thực tập doanh nghiệp
+- Khóa luận tốt nghiệp
+- Quản lý giao tiếp
+- Mạng máy tính
+- Bảo mật
+- Dự án nghiên cứu
+- Thiết kế và phát triển website
+- Internet of Things
+- An toàn mạng máy tính
+- Pháp chứng kỹ thuật số
+- Quản lý an toàn thông tin
+- Mạng máy tính
+- Máy học nâng cao
+- Máy học trong xử lý ngôn ngữ tự nhiên
+- Giới thiệu ngành Khoa học Máy tính
+- Máy học nâng cao
+- Máy học trong xử lý ngôn ngữ tự nhiên
+- Chuyên đề ứng dụng Trí tuệ nhân tạo
+- Nguyên lý và phương pháp lập trình
+- Phân tích & thiết kế thuật toán
+- Cơ sở lập trình
+- Nhập môn công nghệ phần mềm
+- Đồ họa máy tính
+- Trí tuệ nhân tạo
+- Các hệ cơ sở tri thức
+- Lý thuyết thông tin
+- Máy học
+- Nhập môn công nghệ tri thức & máy học
+- Nguyên lý và phương pháp lập trình
+- Khoa học máy tính I
+- Phân tích và thiết kế thuật toán
+- Đồ họa máy tính và Xử lý ảnh
+- Máy học
+- Toán cho Khoa học máy tính
+- Lập trình Python cho Máy học
+- Tư duy tính toán
+- Xử lý ngôn ngữ tự nhiên nâng cao
+- Trí tuệ nhân tạo nâng cao
+- Xử lý ngôn ngữ tự nhiên
+- Ngôn ngữ học máy tính
+- Khoa học máy tính II
+- Biểu diễn tri thức và suy luận
+- Các hệ cơ sở tri thức
+- Xử lý ngôn ngữ tự nhiên
+- Xử lý ngôn ngữ tự nhiên nâng cao
+- Máy học nâng cao
+- Máy học xử lý ngôn ngữ tự nhiên
+- Lập trình symbolic trong trí tuệ nhân tạo
+- Ngôn ngữ học máy tính
+- Khai thác dữ liệu và ứng dụng
+- Máy học và ứng dụng
+- Ngữ nghĩa học tính toán
+- Nhập môn Thị giác máy tính
+- Tính toán đa phương tiện
+- Nhận dạng Thị giác
+- Lập trình C/C++
+- Chuyên đề nghiên cứu khoa học
+- Seminar
+- Kỹ thuật lập trình trí tuệ nhân tạo
+- Hệ thống đa tác tử
+- Khai thác dữ liệu và ứng dụng
+- Lập trình symbolic trong trí tuệ nhân tạo
+- Máy học nâng cao
+- Các hệ giải bài toán thông minh
+- Ngôn ngữ học ngữ liệu
+- Biểu diễn tri thức và ứng dụng
+- Các hệ thống hỏi-đáp
+- Máy học trong xử lý ngôn ngữ tự nhiên
+- Dịch máy
+- Các kĩ thuật trong xử lý ngôn ngữ tự nhiên
+- Thị giác máy tính nâng cao
+- Máy học trong Thị giác Máy tính
+- Đồ họa game
+- Lập trình tính toán hình thức
+- Tìm Kiếm Ảnh và Video
+- Truy vấn thông tin đa phương tiện
+- Tổ chức ngôn ngữ lập trình
+- Xử lý âm thanh và tiếng nói
+- Lập trình hướng đối tượng nâng cao cho môi trường windows
+- Nhận dạng
+- Xử lý văn bản Y khoa
+- Cấu trúc tập tin
+- Hệ thống máy tính
+- Chuyên đề NCKH 1
+- Phương pháp số cho máy tính kỹ thuật số
+- Chuyên đề NCKH 2
+- Cơ sở tính toán
+- Toán rời rạc cho máy tính
+- Seminar chuyên đề 1
+- Seminar chuyên đề 2
+- Công nghệ Java
+- Phân tích thiết kế HTTT quản lý
+- Các dịch vụ web
+- Công nghệ đa tác tử (Muli-Agent)
+- Logic mờ và ứng dụng
+- Xử lý ảnh và ứng dụng
+- Các kỹ thuật trong xử lý NNTN
+- Các hệ giải toán thông minh
+- Hệ suy diễn mờ
+- Mạng neural và thuật giải di truyền
+- Dịch máy
+- Web ngữ nghĩa
+- Lý thuyết automat và ứng dụng
+- Đồ họa máy tính
+- Mã hóa thông tin
+- Phát triển ứng dụng trên di động
+- Nhận dạng
+- Trực quan máy tính
+- Truy xuất thông tin
+- Các vấn đề chọn lọc trong Thị giác máy tính
+- Khai thác dữ liệu đa phương tiện
+- Thuật toán và tiến trình trong an toàn máy tính
+- Nhập môn Công nghệ phần mềm
+- Mạng máy tính
+- Các kĩ thuật học sâu và ứng dụng
+- Hệ điều hành
+- Cấu trúc dữ liệu và giải thuật
+- An ninh mạng
+- Trí tuệ nhân tạo
+- Các vấn đề xã hội trong tính toán
+- Luận văn
+- Khóa luận tốt nghiệp
+- Các công nghệ web và ứng dụng
+- Môn tốt nghiệp KHMT 2
+- Thực tập tốt nghiệp
+- Công nghệ .NET
+- Khoá luận tốt nghiệp
+- Chuyên đề J2EE
+- Hệ điều hành Linux
+- Lập trình cơ sở dữ liệu
+- Lý thuyết thông tin
+- Ngôn ngữ lập trình C#
+- Ngôn ngữ lập trình Java
+- Phân tích thiết kế hệ thống thông tin
+- Phân tích thiết kế hướng đối tượng với UML
+- Quản lý dự án
+- Xây dựng phần mềm hướng đối tượng
+- Phương pháp luận nghiên cứu khoa học
+- Toán rời rạc nâng cao
+- Đại số máy tính
+- Cấu trúc dữ liệu và giải thuật nâng cao
+- Một số ứng dụng của xử lý ngôn ngữ tự nhiên
+- Thị giác máy tính trong tương tác người – máy
+- Phát triển ứng dụng đa phương tiện trên thiết bị di động
+- Thực tại ảo
+- Trực quan hóa thông tin
+- Các vấn đề nghiên cứu và ứng dụng trong khoa học máy tính
+- Đồ án chuyên ngành
+- Đồ họa trong video game
+- Thị giác máy tính trong tương tác người-máy
+- Lập trình Javascript và ứng dụng
+- Tổng hợp tiếng nói
+- Nguyên lý các hệ cơ sở dữ liệu
+- Các hệ cơ sở dữ liệu phân tán
+- Thực tập
+- Lập trình
+- Mạng máy tính
+- Thực hành nghề nghiệp
+- Toán cho Tin học
+- Bảo mật
+- Quản lý dự án máy tính thành công
+- Thiết kế và phát triển cơ sở dữ liệu
+- Kiến trúc máy tính
+- Dự án nghiên cứu
+- Công nghệ kinh doanh thông minh
+- Toán rời rạc
+- Cấu trúc dữ liệu và giải thuật
+- Lập trình nâng cao
+- Máy học
+- Điện toán đám mây
+- Tin học đại cương
+- Khoa học máy tính I
+- Khoa học máy tính II
+- Tin học đại cương (TE)
+- Kỹ năng truyền thông làm việc nhóm
+- Văn hóa doanh nghiệp Nhật
+- Cơ sở dữ liệu
+- Giới thiệu ngành Khoa học Dữ liệu
+- Thống kê và xác suất chuyên sâu
+- Học máy thống kê
+- Thu thập và tiền xử lý dữ liệu
+- Tính toán song song & phân tán
+- Phân tích và trực quan dữ liệu
+- Tối ứu hoá và ứng dụng
+- Phân tích dữ liệu lớn
+- Deep Learning trong khoa học dữ liệu
+- Đồ án khoa học dữ liệu và ứng dụng 1
+- Đồ án khoa học dữ liệu và ứng dụng 2
+- Đồ án khoa học dữ liệu và ứng dụng
+- Hệ khuyến nghị
+- Các giải thuật khai phá dữ liệu lớn
+- Phân tích thống kê đa biến
+- Thống kê Bayes
+- Thiết kế và phân tích thực nghiệm
+- Phân tích dữ liệu chuỗi thời gian và ứng dụng
+- Phân tích dữ liệu lớn trong tài chính
+- Phân tích dữ liệu truyền thông xã hội
+- Mô hình đồ thị xác suất
+- Thực tập doanh nghiệp
+- Xử lý ngôn ngữ tự nhiên cho Khoa học dữ liệu
+- Khóa luận tốt nghiệp
+- Cấu trúc dữ liệu và giải thuật
+- Cấu trúc dữ liệu & giải thuật nâng cao
+- Kinh tế học đại cương
+- Quản trị doanh nghiệp
+- Tiếp thị căn bản
+- Giới thiệu ngành Thương mại Điện tử
+- Phân tích thiết kế quy trình nghiệp vụ doanh nghiệp
+- Nhập môn quản trị chuỗi cung ứng
+- Quản trị quan hệ khách hàng và nhà cung cấp
+- QuẢN trị dự án TMĐT
+- Thực tập doanh nghiệp
+- Quản trị quan hệ khách hàng và nhà cung cấp
+- NhẬp môn quản trị cuỗi cung ứng
+- Pháp luật trong thương mại điện tử
+- ThỰc tập doanh nhiệp
+- Pháp luật trong thương mại điện tử
+- Nguyên lý kế toán
+- Tiếp thị trực tuyến (E-Marketing)
+- Thiết kế Hệ thống Thương mại điện tử
+- Tiếp thị trực tuyến
+- Thiết kế hệ thống thương mại điện tử
+- Quản trị chiến lược kinh doanh điện tử
+- Quản trị sản xuất
+- Quản trị tài chính doanh nghiệp
+- Quản trị kênh phân phối
+- An toàn và bảo mật thương mại điện tử
+- Quản trị nhân lực
+- Hệ thống thanh toán trực tuyến
+- Quản trị bán hàng
+- Khóa luận tốt nghiệp
+- Mạch số
+- Kinh tế tiền tệ
+- Anh văn 1
+- English for Communication 1
+- General English
+- Anh văn 2
+- English for Communication 1
+- General English
+- Anh văn 3
+- Anh văn 1
+- Anh văn 2
+- Anh văn 3
+- Anh văn Bổ túc
+- Anh văn 0
+- Anh văn 1
+- Anh văn 2
+- Anh văn 3
+- Anh văn 4
+- Anh văn 5
+- Tiếng anh tăng cường I
+- Tiếng anh tăng cường II
+- Tiếng Anh I
+- Tiếng Anh II
+- Tiếng Anh chuyên ngành CNTT
+- Anh văn sơ cấp 1
+- Anh văn sơ cấp 2
+- Anh văn bổ túc
+- Tiếng Anh I
+- Tiếng Anh II
+- Nâng cao kỹ năng nghe, nói tiếng Anh 1
+- Nâng cao kỹ năng nghe, nói tiếng Anh 2
+- Nâng cao kỹ năng đọc, viết tiếng Anh 1
+- Nâng cao kỹ năng đọc, viết tiếng Anh 2
+- Tư tưởng Hồ Chí Minh
+- Giới thiệu ngành Công nghệ Thông tin
+- Cơ sở hạ tầng công nghệ thông tin
+- Các công nghệ nền
+- Quản lý thông tin
+- Internet và công nghệ Web
+- Nhập môn bảo đảm và an ninh thông tin
+- Thiết kế giao diện người dùng
+- Thiết kế giao diện người dùng
+- Xử lý dữ liệu thống kê
+- Quản trị doanh nghiệp
+- Hệ thống quản trị qui trình nghiệp vụ
+- Tối ưu hóa công cụ tìm kiếm
+- Xử lý ảnh vệ tinh
+- Đồ án chuẩn bị tốt nghiệp
+- Đồ án
+- Kiến trúc và tích hợp hệ thống
+- Công nghệ Java
+- Hệ thống định vị toàn cầu (GPS)
+- Tin học môi trường
+- Công nghệ Dữ liệu lớn
+- Kỹ thuật phát triển hệ thống Web
+- Các chủ đề toán học cho KHDL
+- Máy học
+- Xử lý dữ liệu lớn
+- Kỹ thuật lập trình Python
+- Phân tích dữ liệu bằng Python
+- Phân tích dữ liệu bằng Python &R
+- Phân tích dữ liệu
+- Interconnections Networks
+- Computer Graphics and Visualization
+- Signal Processing over Networks
+- Human-Computer Interaction
+- Artificial Intelligence
+- Viết báo cáo kỹ thuật bằng tiếng Nhật
+- Quản trị quan hệ khách hàng
+- Kiến trúc và tích hợp hệ thống
+- Công nghệ Java
+- Hệ thống định vị toàn cầu
+- Tin học môi trường
+- Công nghệ lập trình đa nền tảng cho ứng dụng di động
+- Thực tập doanh nghiệp
+- Tin-Sinh học
+- Hệ thống thông tin địa lý 3 chiều
+- Khai thác dữ liệu truyền thông xã hội
+- Khai phá truyền thông xã hội
+- Công nghệ phân tích dữ liệu lớn
+- Nhập môn ẩn thông tin và ứng dụng
+- Khóa luận tốt nghiệp
+- Tái cấu trúc quy trình doanh nghiệp
+- Mô hình hóa dữ liệu, quy trình và đối tượng
+- Tiếng Anh tổng quát (tạm gọi)
+- Toeic 1
+- Tiếng Anh tổng quát 2 (tạm gọi)
+- Toeic 2
+- Tiếng Anh giao tiếp (tạm gọi)
+- Toeic 3
+- Giới thiệu ngành Hệ thống Thông tin
+- Thiết kế cơ sở dữ liệu
+- Các hệ cơ sở tri thức
+- Hệ quản trị cơ sở dữ liệu
+- Cơ sở dữ liệu phân tán
+- Hệ quản trị cơ sở dữ liệu Oracle
+- Khai thác dữ liệu
+- Hệ thống thông tin kế toán
+- Phân tích thiết kế hệ thống thông tin
+- Nhập môn công nghệ phần mềm
+- Lập trình cơ sở dữ liệu
+- Nhập môn hệ thống thông tin địa lý
+- PTTK hướng đối tượng với UML
+- Lập trình ứng dụng Web với Java
+- Phát triển ứng dụng web
+- Quản lý dự án công nghệ thông tin
+- Hệ quản trị cơ sở dữ liệu
+- Cơ sở dữ liệu phân tán
+- Thực tập tốt nghiệp
+- Đồ án xây dựng một hệ thống thông tin
+- Thiết kế cơ sở dữ liệu
+- Thiết kế hướng đối tượng với UML
+- Lập trình Java
+- Kho dữ liệu và OLAP
+- Kỹ năng tư vấn
+- Pháp luật trong Thương mại điện tử
+- Xây dựng HTTT trên các framework
+- Khai thác dữ liệu và ứng dụng
+- Hệ thống thông tin kế toán
+- Nhập môn Hệ thống thông tin địa lý
+- Khai thác dữ liệu
+- Lập trình ứng dụng trên thiết bị di động
+- Hệ hỗ trợ quyết định
+- Thương mại điện tử
+- Phân tích không gian
+- Hệ cơ sở dữ liệu không gian
+- Quản lý dự án hệ thống thông tin
+- Kho dữ liệu và OLAP
+- An toàn và bảo mật HTTT
+- Hệ thống thông tin quản lý
+- Đồ án xây dựng hệ thống thông tin
+- Phân tích thiết kế hệ thống
+- Hệ thống thông tin quản lý
+- Thương mại điện tử
+- An toàn và bảo mật hệ thống thông tin
+- Hoạch định nguồn lực doanh nghiệp
+- Cơ sở dữ liệu nâng cao
+- Dự báo kinh doanh
+- Sinh tin học
+- Thị trường chứng khoán
+- Khởi nghiệp
+- Chính phủ điện tử
+- Luật CNTT
+- Phân tích không gian
+- Hệ cơ sở dữ liệu không gian
+- Mạng xã hội
+- Khóa luận tốt nghiệp
+- Thiết kế, quản lý và quản trị hệ CSDL
+- Điện toán đám mây
+- Phân tích dữ liệu kinh doanh
+- Kho dữ liệu và OLAP
+- Dữ liệu lớn
+- Công nghệ thông tin cho thương mại điện tử
+- Các ứng dụng thông minh và hỗ trợ ra quyết định
+- Hệ truyền thông dữ liệu
+- Thực tập cuối khóa
+- Thực tập doanh nghiệp
+- Khóa luận tốt nghiệp
+- Thực tập cuối khóa
+- Nhập môn lập trình
+- Lập trình hướng đối tượng
+- Cấu trúc dữ liệu và giải thuật
+- Cơ sở dữ liệu
+- Nhập môn mạng máy tính
+- Kiến trúc máy tính
+- Hệ điều hành
+- Lập trình trực quan
+- Giới thiệu ngành
+- Tổ chức và cấu trúc máy tính
+- Nhập môn lập trình thi đấu
+- Tổ chức và Cấu trúc Máy tính II
+- Cấu trúc dữ liệu cho lập trình thi đấu
+- Nhập môn Quản trị doanh nghiệp
+- Nhập môn công tác kỹ sư
+- Communication
+- Tiếng Nhật 1
+- Tiếng Nhật 2
+- Tiếng Nhật 3
+- Tiếng Nhật 4
+- Tiếng Nhật 5
+- Tiếng Nhật 6
+- Tiếng Nhật 7
+- Tiếng Nhật 8
+- Đại số tuyến tính
+- Đại số tuyến tính
+- Giải tích 1
+- Giải tích 2
+- Đại số tuyến tính
+- Cấu trúc rời rạc
+- Xác suất thống kê
+- Giải tích
+- Toán cao cấp A1
+- Toán cao cấp A2
+- Cấu trúc rời rạc
+- Giải tích 1
+- Giải tích 2
+- Toán rời rạc cho máy tính
+- Toán cao cấp A1 (TE)
+- Toán cao cấp A2 (TE)
+- Đại số tuyến tính
+- Cấu trúc rời rạc (TE)
+- Giải tích I
+- Giải tích II
+- Đại số tuyến tính
+- Giáo dục quốc phòng
+- Giáo dục quốc phòng
+- Quản trị chuỗi cung ứng
+- Khai phá dữ liệu và ứng dụng
+- Kinh tế chính trị Mác-Lênin (TE)
+- Kinh tế chính trị Mác-Lênin (TE1)
+- Phát triển ứng dụng web
+- Lập trình hướng đối tượng
+- Quản lý dự án hệ thống thông tin
+- Management Science Methods
+- Sofware Quality Management
+- Managerial Decision Theory
+- Phân tích thiết kế hệ thống
+- Thiết kế, quản lý và quản trị hệ CSDL
+- Điện toán đám mây
+- Dữ liệu lớn
+- Công nghệ thông tin trong thương mại điện tử
+- Control and Audit of Information Systems
+- Các ứng dụng thông minh và hỗ trợ ra quyết định
+- Các chủ đề nâng cao trong phát triển hệ thống
+- Các hệ thống mô phỏng trên máy tính
+- Hệ truyền thông dữ liệu
+- Hệ thống thông tin tính toán
+- Quản lý thông tin địa lý
+- Tiếng Nhật Sơ cấp 1
+- Tiếng Nhật Sơ cấp 2
+- Giới thiệu ngành Mạng máy tính và Truyền thông dữ liệu
+- Giới thiệu ngành An toàn Thông tin
+- An toàn mạng máy tính
+- Điện tử cho công nghệ thông tin
+- Hệ điều hành Linux
+- Lý thuyết thông tin
+- Truyền dữ liệu
+- Lập trình mạng căn bản
+- Xử lý tín hiệu trong truyển thông
+- Mạng truyền thông và di động
+- Lập trình ứng dụng mạng
+- Tín hiệu và mạch
+- Thiết bị mạng và truyền thông ĐPT
+- Công nghệ mạng viễn thông
+- Thiết kế Mạng
+- Đồ án chuyên ngành
+- Thực tập doanh nghiệp
+- Kỹ năng mềm
+- Đồ án môn học Lập trình ứng dụng Mạng
+- Phát triển ứng dụng trên thiết bị di động
+- Mật mã học
+- Thiết bị mạng và truyền thông ĐPT
+- Cơ chế hoạt động của mã độc
+- Hệ thống nhúng Mạng không dây
+- Quản trị mạng và hệ thống
+- An toàn kiến trúc hệ thống
+- Kỹ thuật phân tích mã độc
+- Phân tích thiết kế hệ thống truyền thông và mạng
+- Đồ án môn Lập trình ứng dụng mạng
+- Đồ án chuyên ngành
+- Hệ thống tìm kiếm, phát hiện và ngăn ngừa xâm nhập
+- Tấn công mạng
+- Quản trị hệ thống mạng
+- Quản lý rủi ro và an toàn thông tin trong doanh nghiệp
+- Lập trình ứng dụng Web
+- Lập trình hệ thống
+- Thương mại Điện tử và Triển khai ứng dụng
+- An ninh nhân sự, định danh và chứng thực
+- An toàn dữ liệu, khôi phục thông tin sau sự cố
+- Bảo mật web và ứng dụng
+- Thực tập doanh nghiệp
+- Bảo mật hệ thống dữ liệu
+- Mật mã học
+- Cơ chế hoạt động của mã độc
+- Quản trị hệ thống mạng
+- Xây dựng chuẩn chính sách an toàn thông tin trong doanh nghiệp
+- Công nghệ thoại IP
+- Ứng dụng truyền thông và an ninh thông tin
+- Phát triển ứng dụng trên thiết bị di động
+- Kỹ thuật lập trình mạng trên Linux
+- Xây dựng ứng dụng web
+- Lập trình trên Linux
+- Pháp chứng mạng di động
+- Công nghệ tường lửa và bảo vệ mạng ngoại vi
+- Bảo mật với smartcard và NFC
+- Công nghệ vệ tinh
+- Hệ thống tìm kiếm, phát hiện và ngăn ngừa xâm nhập
+- An toàn mạng không dây và di động
+- Xây dựng chuẩn chính sách an toàn thông tin trong doanh nghiệp
+- Xử lý tín hiệu trong truyền thông
+- Tính toán lưới
+- Pháp chứng kỹ thuật số
+- Phát triển ứng dụng trên thiết bị di động
+- An toàn mạng nâng cao
+- Công nghệ mạng viễn thông
+- Tính toán lưới
+- Khóa luận tốt nghiệp
+- Bảo mật Internet
+- Đồ án tốt nghiệp
+- Pháp chứng kỹ thuật số
+- Bảo mật trên Internet
+- Thực tập doanh nghiệp
+- Thương mại Điện tử và Triển khai ứng dụng
+- Bảo mật Internet
+- Tiểu luận tốt nghiệp
+- Khóa luận tốt nghiệp
+- Xây dựng ứng dụng web
+- Hệ thống đa tác tử di động thông minh
+- Đánh giá hiệu năng hệ thống mạng máy tính
+- Công nghệ Internet of things hiện đại
+- Hệ tính toán phân bố
+- An toàn mạng máy tính nâng cao
+- Bảo mật Internet of things
+- Công nghệ truyền thông đa phương tiện
+- Truyền thông xã hội và kinh doanh
+- Giải thuật xử lý song song và phân bố
+- AI ứng dụng trong mạng và truyền thông
+- Lập trình hướng đối tượng
+- Lập trình hướng đối tượng
+- Hệ điều hành
+- Hệ điều hành
+- Giáo dục thể chất 1
+- Giáo dục thể chất 2
+- Giáo dục thể chất 3
+- Giáo dục thể chất
+- Giáo dục thể chất 1
+- Giáo dục thể chất 2
+- Nhập môn điện tử
+- Nhập môn mạch số
+- Vật lý kỹ thuật
+- Những NLCB của chủ nghĩa Mác-Lênin
+- Triết học Mác-Lênin
+- Vật lý đại cương A1
+- Vật lý đại cương A2
+- Vật lý đại cương A3
+- General Physics 1
+- General Physics 2
+- Vật lý đại cương A2 (TE1)
+- Vật lý đại cương I
+- Vật lý đại cương II
+- Phương pháp khoa học
+- Giới thiệu ngành Kỹ thuật Phần mềm
+- Phương pháp Phát triển phần mềm hướng đối tượng
+- Phương pháp mô hình hóa
+- Nhập môn phát triển game
+- Các phương pháp lập trình
+- Nhập môn Công nghệ phần mềm
+- Lập trình nhúng căn bản
+- Đặc tả hình thức
+- Phân tích thiết kế hệ thống
+- Kiểm chứng phần mềm
+- Phát triển, vận hành, bảo trì phần mềm
+- Phương pháp Phát triển phần mềm hướng đối tượng
+- Đồ án mã nguồn mở
+- Đồ án chuyên ngành
+- Kiểm chứng phần mềm
+- Nhập môn ứng dụng di động
+- Đồ án 1
+- Đồ án 2
+- Phân tích thiết kế hệ thống
+- Kiểm chứng phần mềm
+- Phát triển, vận hành, bảo trì phần mềm
+- Quản lý dự án công nghệ thông tin
+- Phát triển phần mềm hướng đối tượng
+- Phát triển phần mềm mã nguồn mở
+- Xử lý phân bố
+- Công nghệ phần mềm chuyên sâu
+- Giao tiếp người máy
+- Thiết kế Game
+- Lập trình game nâng cao
+- Phát triển phần mềm mã nguồn mở
+- Công nghệ .NET
+- Ngôn ngữ lập trình Java
+- Công nghệ .NET
+- Một số thuật toán thông minh
+- Lập trình đồ họa 3 chiều với Direct3D
+- Lập trình trên thiết bị di động
+- Công nghệ Web và ứng dụng
+- Thiết kế Game
+- Nhập môn lập trình 3D game
+- Chuyên đề J2EE
+- Cơ sở dữ liệu nâng cao
+- Phát triển và vận hành game
+- Lập trình TTNT trong Game
+- Thiết kế 3D Game Engine
+- Ngôn ngữ lập trình Java
+- Chuyên đề E-commerce
+- Chuyên đề CSDL nâng cao
+- Chuyên đề E-Government
+- Các phương pháp lập trình
+- Công nghệ XML và ứng dụng
+- Phương pháp luận sáng tạo KH-CN
+- Các thuật toán thông minh
+- Logic mờ
+- Xử lý phân bổ
+- Quản lý dự án công nghệ thông tin
+- Công nghệ Web và ứng dụng
+- Logic mờ
+- Công nghệ Portal
+- Lập trình game trong các thiết bị di động
+- Kỹ thuật lập trình nhúng
+- Lập trình trên thiết bị di động
+- Công nghệ Web và ứng dụng
+- Chuyên đề M-commerce
+- Nhập môn Quản trị doanh nghiệp
+- Chuyên đề E-learning
+- Xử lý song song
+- Phát triển ứng dụng VR
+- Chuyên đề các quy trình phát triển phần mềm hiện đại
+- Máy học và các công cụ
+- Kiến trúc Phần mềm
+- Kỹ thuật phân tích yêu cầu
+- Quản lý dự án Phát triển Phần mềm
+- Serminar các vấn đề hiện đại của CNPM
+- Mẫu thiết kế
+- Điện toán đám mây
+- Nguyên lý thiết kế thế giới ảo
+- Chuyên đề E-Government
+- Chuyên đề Mobile and Pervasive Computing
+- Đồ án môn học mã nguồn mở
+- Đồ án môn học chuyên ngành
+- Thực tập tốt nghiệp
+- Khóa luận tốt nghiệp
+- Phương pháp NCKH trong tin học
+- Phương pháp luận sáng tạo KH-CN
+- Chủ nghĩa xã hội khoa học
+- Kỹ năng giao tiếp
+- Kỹ năng giao tiếp
+- Tiếng Anh chuyên ngành CNTT
+- Kỹ năng giao tiếp
+- Những nguyên lý cơ bản của chủ nghĩa Mác Lênin
+- Đường lối cách mạng của Đảng CS Việt Nam
+- Tư tưởng Hồ Chí Minh
+- Kỹ năng nghề nghiệp
+- Phương pháp luận sáng tạo KH-CN
+- Pháp luật đại cương
+- Triết học Mác – Lênin
+- Kinh tế chính trị Mác – Lênin
+- Chủ nghĩa xã hội khoa học
+- Lịch sử Đảng Cộng sản Việt Nam
+- Kỹ năng mềm
+- Xác suất thống kê
+- Xác xuất thống kê
+- Phân tích thống kê
+- Thống kê
+- TOEIC 450
+- TOEIC 450
+- Lịch sử Đảng CSVN
+- Đường lối cách mạng của Đảng CSVN
+- Lập trình trên Windows
+- He thong thong tin ke toan
+- Hoach dinh nguon luc doanh nghiep
+- Tieng Anh tang cuong 1
+- Tieng Anh tang cuong 2
+- Tieng Anh tang cuong 3
+- Tieng Anh tang cuong 4
+- Nhạp mon máy tính luọng tủ
+- Kien truc may tinh
+- Gioi thieu nganh Ky Thuat May tinh
+- Ly thuyet mach dien
+- He thong so
+- Vi xu ly-vi dieu khien
+- Cac thiet bi va mach dien tu
+- Xu ly tin hieu so
+- Thiet ke vi mach voi HDL
+- He thong nhung
+- He dieu hanh nang cao
+- Lap trinh nhung can ban
+- Lap trinh he thong voi Java
+- Kien truc may tinh nang cao
+- Do an mon hoc thiet ke mach
+- Dieu khien tu dong
+- Lap trinh tren thiet bi di dong
+- Thiet ke mang
+- Do an mon hoc nganh KTMT
+- Thuc hanh dien- dien tu
+- Thiet ke luan ly so
+- Thuc hanh Kien truc may tinh
+- Ly thuyet mach dien
+- Cac thiet bi va mach dien tu
+- Do an 1
+- An toan mang may tinh
+- Dieu khien tu dong nang cao
+- Thiet ke va lap trinh Web
+- Xu ly tin hieu so
+- Do an 2
+- Lap trinh nhung can ban
+- Dieu khien tu dong
+- ThiET ke he thong so voi HDL
+- Tuong tac nguoi - may
+- Thiet ke vi mach voi HDL
+- Thiet ke vi mach so
+- ThiET ke he thong nhung
+- ThiET ke he thong nhung khong day
+- He thong chung thuc so
+- Thiet ke vi mach
+- Robot cong nghiep
+- Robot cong nghiẹp
+- Thi giac may tinh
+- He thong thoi gian thuc
+- Xu ly song song va he thong phan tan
+- Trinh bien dich
+- Lap trinh he thong voi Java
+- Logic mo va ung dung
+- Dieu khien tu dong nang cao
+- Trình bien dịch
+- Logic mò và úng dụng
+- Ky thuat che tao vi mach
+- Thiet ke vi mach hon hop
+- Ki thuat thiet ke mach in
+- Thiet ke vi mach tuong tu
+- Thiet ke dua tren vi xu ly
+- Tu dong hoa thiet ke vi mach
+- Toi uu hoa dua tren FPGA
+- Ky thuat che tao vi mach
+- Thiet ke vi mach hon hop
+- Thiet ke vi mach tuong tu
+- Thiet ke dua tren vi xu ly
+- Tu dong hoa thiet ke vi mach
+- Toi uu hoa dua tren FPGA
+- Hẹ thóng thòi gian thục
+- Lap trinh nhung tren cac thiet bi di dong
+- Ky thuat he thong may tinh
+- Cac he dieu hanh nhung
+- Thiet ke so
+- Ky thuat che tao vi mach
+- Tuong tac nguoi may
+- Tuong tac nguoi – May
+- Do an chuyen nganh He thong nhung va Robot
+- Do an chuyen nganh Thiet ke vi mach va phan cung
+- Ky thuat thiet ke kiem tra
+- Ky thuat he thong may tinh
+- Chuyen de he thong nhung va robot
+- Chuyen de thiet ke vi mach va phan cung
+- Lap trinh he thong
+- Thiet ke vi mach huong ASIC
+- Thiet ke he thong SoC
+- Chuyen de thiet ke he vi mach 1
+- Chuyen de thiet ke he vi mach 2
+- Xu ly tin hieu so va ung dung
+- Chuyen de thiet ke he thong nhung 1
+- Chuyen de thiet ke he thong nhung 2
+- Lap trinh song song va he phan tan
+- Thuc tap doanh nghiep
+- Thuc tap doanh nghiep
+- Khoa luan tot nghiep
+- Quan ly giao tiep
+- Mang may tinh
+- Bao mat
+- Du an nghien cuu
+- Thiet ke va phat trien website
+- Internet of Things
+- An toan mang may tinh
+- Phap chung ky thuat so
+- Quan ly an toan thong tin
+- Mang may tinh
+- May hoc nang cao
+- May hoc trong xu ly ngon ngu tu nhien
+- Gioi thieu nganh Khoa hoc May tinh
+- May hoc nang cao
+- May hoc trong xu ly ngon ngu tu nhien
+- Chuyen de ung dung Tri tue nhan tao
+- Nguyen ly va phuong phap lap trinh
+- Phan tich & thiet ke thuat toan
+- Co so lap trinh
+- Nhap mon cong nghe phan mem
+- Do hoa may tinh
+- Tri tue nhan tao
+- Cac he co so tri thuc
+- Ly thuyet thong tin
+- May hoc
+- Nhap mon cong nghe tri thuc & may hoc
+- Nguyen ly va phuong phap lap trinh
+- Khoa hoc may tinh I
+- Phan tich va thiet ke thuat toan
+- Do hoa may tinh va Xu ly anh
+- May hoc
+- Toan cho Khoa hoc may tinh
+- Lap trinh Python cho May hoc
+- Tu duy tinh toan
+- Xu ly ngon ngu tu nhien nang cao
+- Tri tue nhan tao nang cao
+- Xu ly ngon ngu tu nhien
+- Ngon ngu hoc may tinh
+- Khoa hoc may tinh II
+- Bieu dien tri thuc va suy luan
+- Cac he co so tri thuc
+- Xu ly ngon ngu tu nhien
+- Xu ly ngon ngu tu nhien nang cao
+- May hoc nang cao
+- May hoc xu ly ngon ngu tu nhien
+- Lap trinh symbolic trong tri tue nhan tao
+- Ngon ngu hoc may tinh
+- Khai thac du lieu va ung dung
+- May hoc va ung dung
+- Ngu nghia hoc tinh toan
+- Nhap mon Thi giac may tinh
+- Tinh toan da phuong tien
+- Nhan dang Thi giac
+- Lap trinh C/C++
+- Chuyen de nghien cuu khoa hoc
+- Seminar
+- Ky thuat lap trinh tri tue nhan tao
+- He thong da tac tu
+- Khai thac du lieu va ung dung
+- Lap trinh symbolic trong tri tue nhan tao
+- May hoc nang cao
+- Cac he giai bai toan thong minh
+- Ngon ngu hoc ngu lieu
+- Bieu dien tri thuc va ung dung
+- Cac he thong hoi-dap
+- May hoc trong xu ly ngon ngu tu nhien
+- Dich may
+- Cac ki thuat trong xu ly ngon ngu tu nhien
+- Thi giac may tinh nang cao
+- May hoc trong Thi giac May tinh
+- Do hoa game
+- Lap trinh tinh toan hinh thuc
+- Tim Kiem Anh va Video
+- Truy van thong tin da phuong tien
+- To chuc ngon ngu lap trinh
+- Xu ly am thanh va tieng noi
+- Lap trinh huong doi tuong nang cao cho moi truong windows
+- Nhan dang
+- Xủ lý van bản Y khoa
+- Cau truc tap tin
+- He thong may tinh
+- Chuyen de NCKH 1
+- Phuong phap so cho may tinh ky thuat so
+- Chuyen de NCKH 2
+- Co so tinh toan
+- Toan roi rac cho may tinh
+- Seminar chuyen de 1
+- Seminar chuyen de 2
+- Cong nghe Java
+- Phan tich thiet ke HTTT quan ly
+- Cac dich vu web
+- Cong nghe da tac tu (Muli-Agent)
+- Logic mo va ung dung
+- Xu ly anh va ung dung
+- Cac ky thuat trong xu ly NNTN
+- Cac he giai toan thong minh
+- He suy dien mo
+- Mang neural va thuat giai di truyen
+- Dịch máy
+- Web ngu nghia
+- Ly thuyet automat va ung dung
+- Do hoa may tinh
+- Ma hoa thong tin
+- Phat trien ung dung tren di dong
+- Nhan dang
+- Truc quan may tinh
+- Truy xuat thong tin
+- Cac van de chon loc trong Thi giac may tinh
+- Khai thac du lieu da phuong tien
+- Thuat toan va tien trinh trong an toan may tinh
+- Nhap mon Cong nghe phan mem
+- Mang may tinh
+- Cac ki thuat hoc sau va ung dung
+- He dieu hanh
+- Cau truc du lieu va giai thuat
+- An ninh mang
+- Tri tue nhan tao
+- Cac van de xa hoi trong tinh toan
+- Luan van
+- Khoa luan tot nghiep
+- Cac cong nghe web va ung dung
+- Mon tot nghiep KHMT 2
+- Thuc tap tot nghiep
+- Cong nghe .NET
+- Khoa luan tot nghiep
+- Chuyen de J2EE
+- He dieu hanh Linux
+- Lap trinh co so du lieu
+- Ly thuyet thong tin
+- Ngon ngu lap trinh C#
+- Ngon ngu lap trinh Java
+- Phan tich thiet ke he thong thong tin
+- Phan tich thiet ke huong doi tuong voi UML
+- Quan ly du an
+- Xay dung phan mem huong doi tuong
+- Phuong phap luan nghien cuu khoa hoc
+- Toan roi rac nang cao
+- Dai so may tinh
+- Cau truc du lieu va giai thuat nang cao
+- Mot so ung dung cua xu ly ngon ngu tu nhien
+- Thi giac may tinh trong tuong tac nguoi – may
+- Phat trien ung dung da phuong tien tren thiet bi di dong
+- Thuc tai ao
+- Truc quan hoa thong tin
+- Cac van de nghien cuu va ung dung trong khoa hoc may tinh
+- Do an chuyen nganh
+- Do hoa trong video game
+- Thi giac may tinh trong tuong tac nguoi-may
+- Lap trinh Javascript va ung dung
+- Tong hop tieng noi
+- Nguyen ly cac he co so du lieu
+- Cac he co so du lieu phan tan
+- Thuc tap
+- Lap trinh
+- Mang may tinh
+- Thuc hanh nghe nghiep
+- Toan cho Tin hoc
+- Bao mat
+- Quan ly du an may tinh thanh cong
+- Thiet ke va phat trien co so du lieu
+- Kien truc may tinh
+- Du an nghien cuu
+- Cong nghe kinh doanh thong minh
+- Toan roi rac
+- Cau truc du lieu va giai thuat
+- Lap trinh nang cao
+- May hoc
+- Dien toan dam may
+- Tin hoc dai cuong
+- Khoa hoc may tinh I
+- Khoa hoc may tinh II
+- Tin hoc dai cuong (TE)
+- Ky nang truyen thong lam viec nhom
+- Van hoa doanh nghiep Nhat
+- Co so du lieu
+- Gioi thieu nganh Khoa hoc Du lieu
+- Thóng ke và xác suát chuyen sau
+- Hoc may thong ke
+- Thu thap va tien xu ly du lieu
+- Tinh toan song song & phan tan
+- Phan tich va truc quan du lieu
+- Toi uu hoa va ung dung
+- Phan tich du lieu lon
+- Deep Learning trong khoa hoc du lieu
+- Do an khoa hoc du lieu va ung dung 1
+- Do an khoa hoc du lieu va ung dung 2
+- Do an khoa hoc du lieu va ung dung
+- He khuyen nghi
+- Cac giai thuat khai pha du lieu lon
+- Phan tich thong ke da bien
+- Thong ke Bayes
+- Thiet ke va phan tich thuc nghiem
+- Phan tich du lieu chuoi thoi gian va ung dung
+- Phan tich du lieu lon trong tai chinh
+- Phan tich du lieu truyen thong xa hoi
+- Mo hinh do thi xac suat
+- Thuc tap doanh nghiep
+- Xu ly ngon ngu tu nhien cho Khoa hoc du lieu
+- Khoa luan tot nghiep
+- Cau truc du lieu va giai thuat
+- Cau truc du lieu & giai thuat nang cao
+- Kinh te hoc dai cuong
+- Quan tri doanh nghiep
+- Tiep thi can ban
+- Gioi thieu nganh Thuong mai Dien tu
+- Phan tich thiet ke quy trinh nghiep vu doanh nghiep
+- Nhap mon quan tri chuoi cung ung
+- Quan tri quan he khach hang va nha cung cap
+- QuAN tri du an TMDT
+- Thuc tap doanh nghiep
+- Quan tri quan he khach hang va nha cung cap
+- NhAp mon quan tri cuoi cung ung
+- Phap luat trong thuong mai dien tu
+- ThUc tap doanh nhiep
+- Phap luat trong thuong mai dien tu
+- Nguyen ly ke toan
+- Tiep thi truc tuyen (E-Marketing)
+- Thiet ke He thong Thuong mai dien tu
+- Tiep thi truc tuyen
+- Thiet ke he thong thuong mai dien tu
+- Quan tri chien luoc kinh doanh dien tu
+- Quan tri san xuat
+- Quan tri tai chinh doanh nghiep
+- Quan tri kenh phan phoi
+- An toan va bao mat thuong mai dien tu
+- Quan tri nhan luc
+- He thong thanh toan truc tuyen
+- Quan tri ban hang
+- Khoa luan tot nghiep
+- Mach so
+- Kinh te tien te
+- Anh van 1
+- English for Communication 1
+- General English
+- Anh van 2
+- English for Communication 1
+- General English
+- Anh van 3
+- Anh van 1
+- Anh van 2
+- Anh van 3
+- Anh van Bo tuc
+- Anh van 0
+- Anh van 1
+- Anh van 2
+- Anh van 3
+- Anh van 4
+- Anh van 5
+- Tieng anh tang cuong I
+- Tieng anh tang cuong II
+- Tieng Anh I
+- Tieng Anh II
+- Tieng Anh chuyen nganh CNTT
+- Anh van so cáp 1
+- Anh van so cáp 2
+- Anh van bo tuc
+- Tieng Anh I
+- Tieng Anh II
+- Nang cao ky nang nghe, noi tieng Anh 1
+- Nang cao ky nang nghe, noi tieng Anh 2
+- Nang cao ky nang doc, viet tieng Anh 1
+- Nang cao ky nang doc, viet tieng Anh 2
+- Tu tuong Ho Chi Minh
+- Gioi thieu nganh Cong nghe Thong tin
+- Co so ha tang cong nghe thong tin
+- Cac cong nghe nen
+- Quan ly thong tin
+- Internet va cong nghe Web
+- Nhap mon bao dam va an ninh thong tin
+- Thiet ke giao dien nguoi dung
+- Thiet ke giao dien nguoi dung
+- Xu ly du lieu thong ke
+- Quan tri doanh nghiep
+- He thong quan tri qui trinh nghiep vu
+- Toi uu hoa cong cu tim kiem
+- Xu ly anh ve tinh
+- Do an chuan bi tot nghiep
+- Do an
+- Kien truc va tich hop he thong
+- Cong nghe Java
+- He thong dinh vi toan cau (GPS)
+- Tin hoc moi truong
+- Cong nghe Du lieu lon
+- Ky thuat phat trien he thong Web
+- Cac chu de toan hoc cho KHDL
+- May hoc
+- Xu ly du lieu lon
+- Ky thuat lap trinh Python
+- Phan tich du lieu bang Python
+- Phan tich du lieu bang Python &R
+- Phan tich du lieu
+- Interconnections Networks
+- Computer Graphics and Visualization
+- Signal Processing over Networks
+- Human-Computer Interaction
+- Artificial Intelligence
+- Viet bao cao ky thuat bang tieng Nhat
+- Quan tri quan he khach hang
+- Kien truc va tich hop he thong
+- Cong nghe Java
+- He thong dinh vi toan cau
+- Tin hoc moi truong
+- Cong nghe lap trinh da nen tang cho ung dung di dong
+- Thuc tap doanh nghiep
+- Tin-Sinh hoc
+- He thong thong tin dia ly 3 chieu
+- Khai thac du lieu truyen thong xa hoi
+- Khai pha truyen thong xa hoi
+- Cong nghe phan tich du lieu lon
+- Nhap mon an thong tin va ung dung
+- Khoa luan tot nghiep
+- Tai cau truc quy trinh doanh nghiep
+- Mo hinh hoa du lieu, quy trinh va doi tuong
+- Tieng Anh tong quat (tam goi)
+- Toeic 1
+- Tieng Anh tong quat 2 (tam goi)
+- Toeic 2
+- Tieng Anh giao tiep (tam goi)
+- Toeic 3
+- Gioi thieu nganh He thong Thong tin
+- Thiet ke co so du lieu
+- Cac he co so tri thuc
+- He quan tri co so du lieu
+- Co so du lieu phan tan
+- He quan tri co so du lieu Oracle
+- Khai thac du lieu
+- He thong thong tin ke toan
+- Phan tich thiet ke he thong thong tin
+- Nhap mon cong nghe phan mem
+- Lap trinh co so du lieu
+- Nhap mon he thong thong tin dia ly
+- PTTK huong doi tuong voi UML
+- Lap trinh ung dung Web voi Java
+- Phat trien ung dung web
+- Quan ly du an cong nghe thong tin
+- He quan tri co so du lieu
+- Co so du lieu phan tan
+- Thuc tap tot nghiep
+- Do an xay dung mot he thong thong tin
+- Thiet ke co so du lieu
+- Thiet ke huong doi tuong voi UML
+- Lap trinh Java
+- Kho du lieu va OLAP
+- Ky nang tu van
+- Phap luat trong Thuong mai dien tu
+- Xay dung HTTT tren cac framework
+- Khai thac du lieu va ung dung
+- He thong thong tin ke toan
+- Nhap mon He thong thong tin dia ly
+- Khai thac du lieu
+- Lap trinh ung dung tren thiet bi di dong
+- He ho tro quyet dinh
+- Thuong mai dien tu
+- Phan tich khong gian
+- He co so du lieu khong gian
+- Quan ly du an he thong thong tin
+- Kho du lieu va OLAP
+- An toan va bao mat HTTT
+- He thong thong tin quan ly
+- Do an xay dung he thong thong tin
+- Phan tich thiet ke he thong
+- He thong thong tin quan ly
+- Thuong mai dien tu
+- An toan va bao mat he thong thong tin
+- Hoach dinh nguon luc doanh nghiep
+- Co so du lieu nang cao
+- Du bao kinh doanh
+- Sinh tin hoc
+- Thi truong chung khoan
+- Khoi nghiep
+- Chinh phu dien tu
+- Luat CNTT
+- Phan tich khong gian
+- He co so du lieu khong gian
+- Mang xa hoi
+- Khoa luan tot nghiep
+- Thiet ke, quan ly va quan tri he CSDL
+- Dien toan dam may
+- Phan tich du lieu kinh doanh
+- Kho du lieu va OLAP
+- Du lieu lon
+- Cong nghe thong tin cho thuong mai dien tu
+- Cac ung dung thong minh va ho tro ra quyet dinh
+- He truyen thong du lieu
+- Thuc tap cuoi khoa
+- Thuc tap doanh nghiep
+- Khoa luan tot nghiep
+- Thuc tap cuoi khoa
+- Nhap mon lap trinh
+- Lap trinh huong doi tuong
+- Cau truc du lieu va giai thuat
+- Co so du lieu
+- Nhap mon mang may tinh
+- Kien truc may tinh
+- He dieu hanh
+- Lap trinh truc quan
+- Gioi thieu nganh
+- To chuc va cau truc may tinh
+- Nhap mon lap trinh thi dau
+- To chuc va Cau truc May tinh II
+- Cau truc du lieu cho lap trinh thi dau
+- Nhap mon Quan tri doanh nghiep
+- Nhap mon cong tac ky su
+- Communication
+- Tieng Nhat 1
+- Tieng Nhat 2
+- Tieng Nhat 3
+- Tieng Nhat 4
+- Tieng Nhat 5
+- Tieng Nhat 6
+- Tieng Nhat 7
+- Tieng Nhat 8
+- Dai so tuyen tinh
+- Dai so tuyen tinh
+- Giai tich 1
+- Giai tich 2
+- Dai so tuyen tinh
+- Cau truc roi rac
+- Xac suat thong ke
+- Giai tich
+- Toan cao cap A1
+- Toan cao cap A2
+- Cau truc roi rac
+- Giai tich 1
+- Giai tich 2
+- Toan roi rac cho may tinh
+- Toan cao cap A1 (TE)
+- Toan cao cap A2 (TE)
+- Dai so tuyen tinh
+- Cau truc roi rac (TE)
+- Giai tich I
+- Giai tich II
+- Dai so tuyen tinh
+- Giao duc quoc phong
+- Giao duc quoc phong
+- Quan tri chuoi cung ung
+- Khai pha du lieu va ung dung
+- Kinh te chinh tri Mac-Lenin (TE)
+- Kinh te chinh tri Mac-Lenin (TE1)
+- Phat trien ung dung web
+- Lap trinh huong doi tuong
+- Quan ly du an he thong thong tin
+- Management Science Methods
+- Sofware Quality Management
+- Managerial Decision Theory
+- Phan tich thiet ke he thong
+- Thiet ke, quan ly va quan tri he CSDL
+- Dien toan dam may
+- Du lieu lon
+- Cong nghe thong tin trong thuong mai dien tu
+- Control and Audit of Information Systems
+- Cac ung dung thong minh va ho tro ra quyet dinh
+- Cac chu de nang cao trong phat trien he thong
+- Cac he thong mo phong tren may tinh
+- He truyen thong du lieu
+- He thong thong tin tinh toan
+- Quan ly thong tin dia ly
+- Tieng Nhat So cap 1
+- Tieng Nhat So cap 2
+- Gioi thieu nganh Mang may tinh va Truyen thong du lieu
+- Gioi thieu nganh An toan Thong tin
+- An toan mang may tinh
+- Dien tu cho cong nghe thong tin
+- He dieu hanh Linux
+- Ly thuyet thong tin
+- Truyen du lieu
+- Lap trinh mang can ban
+- Xu ly tin hieu trong truyen thong
+- Mang truyen thong va di dong
+- Lap trinh ung dung mang
+- Tin hieu va mach
+- Thiet bi mang va truyen thong DPT
+- Cong nghe mang vien thong
+- Thiet ke Mang
+- Do an chuyen nganh
+- Thuc tap doanh nghiep
+- Ky nang mem
+- Do an mon hoc Lap trinh ung dung Mang
+- Phat trien ung dung tren thiet bi di dong
+- Mat ma hoc
+- Thiet bi mang va truyen thong DPT
+- Co che hoat dong cua ma doc
+- He thong nhung Mang khong day
+- Quan tri mang va he thong
+- An toan kien truc he thong
+- Ky thuat phan tich ma doc
+- Phan tich thiet ke he thong truyen thong va mang
+- Do an mon Lap trinh ung dung mang
+- Do an chuyen nganh
+- He thong tim kiem, phat hien va ngan ngua xam nhap
+- Tan cong mang
+- Quan tri he thong mang
+- Quan ly rui ro va an toan thong tin trong doanh nghiep
+- Lap trinh ung dung Web
+- Lap trinh he thong
+- Thuong mai Dien tu va Trien khai ung dung
+- An ninh nhan su, dinh danh va chung thuc
+- An toan du lieu, khoi phuc thong tin sau su co
+- Bao mat web va ung dung
+- Thuc tap doanh nghiep
+- Bao mat he thong du lieu
+- Mat ma hoc
+- Co che hoat dong cua ma doc
+- Quan tri he thong mang
+- Xay dung chuan chinh sach an toan thong tin trong doanh nghiep
+- Cong nghe thoai IP
+- Ung dung truyen thong va an ninh thong tin
+- Phat trien ung dung tren thiet bi di dong
+- Ky thuat lap trinh mang tren Linux
+- Xay dung ung dung web
+- Lap trinh tren Linux
+- Phap chung mang di dong
+- Cong nghe tuong lua va bao ve mang ngoai vi
+- Bao mat voi smartcard va NFC
+- Cong nghe ve tinh
+- He thong tim kiem, phat hien va ngan ngua xam nhap
+- An toan mang khong day va di dong
+- Xay dung chuan chinh sach an toan thong tin trong doanh nghiep
+- Xu ly tin hieu trong truyen thong
+- Tinh toan luoi
+- Phap chung ky thuat so
+- Phat trien ung dung tren thiet bi di dong
+- An toan mang nang cao
+- Cong nghe mang vien thong
+- Tinh toan luoi
+- Khoa luan tot nghiep
+- Bao mat Internet
+- Do an tot nghiep
+- Phap chung ky thuat so
+- Bao mat tren Internet
+- Thuc tap doanh nghiep
+- Thuong mai Dien tu va Trien khai ung dung
+- Bao mat Internet
+- Tieu luan tot nghiep
+- Khoa luan tot nghiep
+- Xay dung ung dung web
+- He thong da tac tu di dong thong minh
+- Danh gia hieu nang he thong mang may tinh
+- Cong nghe Internet of things hien dai
+- He tinh toan phan bo
+- An toan mang may tinh nang cao
+- Bao mat Internet of things
+- Cong nghe truyen thong da phuong tien
+- Truyen thong xa hoi va kinh doanh
+- Giai thuat xu ly song song va phan bo
+- AI ung dung trong mang va truyen thong
+- Lap trinh huong doi tuong
+- Lap trinh huong doi tuong
+- He dieu hanh
+- He dieu hanh
+- Giao duc the chat 1
+- Giao duc the chat 2
+- Giao duc the chat 3
+- Giao duc the chat
+- Giao duc the chat 1
+- Giao duc the chat 2
+- Nhap mon dien tu
+- Nhap mon mach so
+- Vat ly ky thuat
+- Nhung NLCB cua chu nghia Mac-Lenin
+- Triet hoc Mac-Lenin
+- Vat ly dai cuong A1
+- Vat ly dai cuong A2
+- Vat ly dai cuong A3
+- General Physics 1
+- General Physics 2
+- Vat ly dai cuong A2 (TE1)
+- Vat ly dai cuong I
+- Vat ly dai cuong II
+- Phuong phap khoa hoc
+- Gioi thieu nganh Ky thuat Phan mem
+- Phuong phap Phat trien phan mem huong doi tuong
+- Phuong phap mo hinh hoa
+- Nhap mon phat trien game
+- Cac phuong phap lap trinh
+- Nhap mon Cong nghe phan mem
+- Lap trinh nhung can ban
+- Dac ta hinh thuc
+- Phan tich thiet ke he thong
+- Kiem chung phan mem
+- Phat trien, van hanh, bao tri phan mem
+- Phuong phap Phát triẻn phàn mèm huóng dói tuọng
+- Do an ma nguon mo
+- Do an chuyen nganh
+- Kiẻm chúng phàn mèm
+- Nhap mon ung dung di dong
+- Do an 1
+- Do an 2
+- Phan tich thiet ke he thong
+- Kiem chung phan mem
+- Phat trien, van hanh, bao tri phan mem
+- Quản lý dụ án cong nghẹ thong tin
+- Phát triẻn phàn mèm huóng dói tuọng
+- Phat trien phan mem ma nguon mo
+- Xủ lý phan bó
+- Cong nghe phan mem chuyen sau
+- Giao tiep nguoi may
+- Thiet ke Game
+- Lap trinh game nang cao
+- Phat trien phan mem ma nguon mo
+- Cong nghe .NET
+- Ngon ngu lap trinh Java
+- Cong nghe .NET
+- Mot so thuat toan thong minh
+- Lap trinh do hoa 3 chieu voi Direct3D
+- Lap trinh tren thiet bi di dong
+- Cong nghe Web va ung dung
+- Thiet ke Game
+- Nhap mon lap trinh 3D game
+- Chuyen de J2EE
+- Co so du lieu nang cao
+- Phat trien va van hanh game
+- Lap trinh TTNT trong Game
+- Thiet ke 3D Game Engine
+- Ngon ngu lap trinh Java
+- Chuyen de E-commerce
+- Chuyen de CSDL nang cao
+- Chuyen de E-Government
+- Cac phuong phap lap trinh
+- Cong nghe XML va ung dung
+- Phuong phap luan sang tao KH-CN
+- Cac thuat toan thong minh
+- Logic mo
+- Xu ly phan bo
+- Quan ly du an cong nghe thong tin
+- Cong nghe Web va ung dung
+- Logic mo
+- Cong nghe Portal
+- Lap trinh game trong cac thiet bi di dong
+- Ky thuat lap trinh nhung
+- Lap trinh tren thiet bi di dong
+- Cong nghe Web va ung dung
+- Chuyen de M-commerce
+- Nhap mon Quan tri doanh nghiep
+- Chuyen de E-learning
+- Xu ly song song
+- Phat trien ung dung VR
+- Chuyen de cac quy trinh phat trien phan mem hien dai
+- May hoc va cac cong cu
+- Kien truc Phan mem
+- Ky thuat phan tich yeu cau
+- Quan ly du an Phat trien Phan mem
+- Serminar cac van de hien dai cua CNPM
+- Mau thiet ke
+- Dien toan dam may
+- Nguyen ly thiet ke the gioi ao
+- Chuyen de E-Government
+- Chuyen de Mobile and Pervasive Computing
+- Do an mon hoc ma nguon mo
+- Do an mon hoc chuyen nganh
+- Thuc tap tot nghiep
+- Khoa luan tot nghiep
+- Phuong phap NCKH trong tin hoc
+- Phuong phap luan sang tao KH-CN
+- Chu nghia xa hoi khoa hoc
+- Ky nang giao tiep
+- Ky nang giao tiep
+- Tieng Anh chuyen nganh CNTT
+- Ky nang giao tiep
+- Nhung nguyen ly co ban cua chu nghia Mac Lenin
+- Duong loi cach mang cua Dang CS Viet Nam
+- Tu tuong Ho Chi Minh
+- Ky nang nghe nghiep
+- Phuong phap luan sang tao KH-CN
+- Phap luat dai cuong
+- Triet hoc Mac – Lenin
+- Kinh te chinh tri Mac – Lenin
+- Chu nghia xa hoi khoa hoc
+- Lich su Dang Cong san Viet Nam
+- Ky nang mem
+- Xac suat thong ke
+- Xac xuat thong ke
+- Phan tich thong ke
+- Thong ke
+- TOEIC 450
+- TOEIC 450
+- Lich su Dang CSVN
+- Duong loi cach mang cua Dang CSVN
+- Lap trinh tren Windows
